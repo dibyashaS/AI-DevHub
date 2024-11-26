@@ -6,14 +6,12 @@
 ![alt text](image-2.png)
 
  🔆Created a Dashboard page
-![alt text](image-3.png)
-
+![alt text](image-7.png)
  🔆Created a page to link existing repositories
- ![alt text](image-4.png)
+  ![alt text](image-6.png)
 
  🔆Have been collecting and retrieving data from Prisma ORM
  ![alt text](image-5.png)
- ![alt text](image-6.png)
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
