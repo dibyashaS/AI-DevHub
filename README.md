@@ -1,6 +1,19 @@
-Hi! Welcome to AI-DevHub Tool inspired by @Elliott-Chong's Dionysuss tool. The app is still being developed, but here are the outcomes so far:
+ 🔆Hi! Welcome to AI-DevHub Tool✨ inspired by @Elliott-Chong's Dionysuss platform. It is designed to simplify developer collaboration. The app is still being developed, but here are the outcomes so far:
 ![alt text](image.png)
 
+ 🔆I have also integrated sign-in and sign-up features:
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+ 🔆Created a Dashboard page
+![alt text](image-3.png)
+
+ 🔆Created a page to link existing repositories
+ ![alt text](image-4.png)
+
+ 🔆Have been collecting and retrieving data from Prisma ORM
+ ![alt text](image-5.png)
+ ![alt text](image-6.png)
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
