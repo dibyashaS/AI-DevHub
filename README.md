@@ -1,3 +1,6 @@
+Hi! Welcome to AI-DevHub Tool inspired by @Elliott-Chong's Dionysuss tool. The app is still being developed, but here are the outcomes so far:
+![alt text](image.png)
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
